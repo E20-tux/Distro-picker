@@ -1,2 +1,2 @@
 # Distro-picker
- If you are seeing this I am not done yet. Check this page for a few days and you will see my finished project
+If you are reading this message please note that I am done with the project. I am only working on the css now. Should you have any questions regarding this please contact me at vethavivekan@gmail.com.
